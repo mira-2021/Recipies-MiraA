@@ -1,13 +1,33 @@
+body{ backround-color:#ffffff;
 
-0A2342 - Oxford blue
-CEA2AC - pale pink 
-A9DBB8 - light turquise green
-CC2936 - Bright redish pink
-E28413 - bright yellow
+}
+h1{
+	color: #1A1B41;
+	font-family:'Playfair Display'serif;
+	 }
+ hr {
+ 	width:thick;
+ }
+a:hover {color: #1A1B41;}
+ul li{ 
+display: inline; }
 
-Playfair display - 
+.center{ 
+display: block; 
+margin-left:auto;
+margin-right:auto;
+width: 60%;
+}
+h1,p,ul {
+	text-align:center;
+	
+}
 
-<link rel="preconnect" href="https://fonts.gstatic.com"> 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap" rel="stylesheet">
+.headerMarbledBananaBread {
+	background: url ('bananabread.jpg') no-repeat ;
+
+}
+
+
 
 font-family: 'Playfair Display', serif;
