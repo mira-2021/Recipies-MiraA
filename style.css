@@ -35,20 +35,20 @@ li{
 }
 
 .headerGranola {
-	background: url ("granola.jpg") no-repeat ;
+	background: url("granola.jpg") no-repeat ;
 	background-size: cover;
-	height:400px;
+	height:350px;
 
 }
 
 .headerBread {
-	background: url ("bread.jpg") no-repeat;
+	background: url("bread.jpg") no-repeat;
 	background-size: cover;
-	height:400px;
+	height:350px;
 }
 .headerBBread{
-	background: url ("bananabread.jpg") no-repeat ;
+	background: url("bananabread.jpg") no-repeat ;
 	background-size: cover;
-	height:400px;
+	height:350px;
 
 }
